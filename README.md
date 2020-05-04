@@ -1,7 +1,7 @@
 # my-markdown-writing-setting
 ## 概要
 
-markdown の Linter 系の設定を自分用にまとめたもの
+markdown の Linter 系の設定を自分用にまとめたもの。
 
 ## 参考
 
