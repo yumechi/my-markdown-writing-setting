@@ -4,3 +4,7 @@ rules:
     patterns:
       - /TeckUp/
       - /TechUp/
+  - expected: Raspberry Pi
+    patterns:
+      - /Raspberry Pi/
+      - /Ras?p?berry [P|p]i/
