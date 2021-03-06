@@ -109,4 +109,7 @@ dist
 *.adoc
 *.txt
 
+.pnp.js
+.yarn/
+
 work/
