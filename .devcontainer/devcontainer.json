@@ -3,5 +3,17 @@
   "features": {
     "ghcr.io/devcontainers-contrib/features/pnpm:2": {},
     "ghcr.io/devcontainers-contrib/features/node-asdf:0": {}   
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "DavidAnson.vscode-markdownlint",
+        "saikou9901.evilinspector",
+        "enkia.tokyo-night"
+      ],
+      "settings": {
+        "workbench.colorTheme": "Tokyo Night"
+      }
+    }
   }
 }
