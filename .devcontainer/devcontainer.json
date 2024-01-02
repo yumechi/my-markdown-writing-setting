@@ -9,7 +9,9 @@
       "extensions": [
         "DavidAnson.vscode-markdownlint",
         "saikou9901.evilinspector",
-        "enkia.tokyo-night"
+        "enkia.tokyo-night",
+        "GitHub.copilot",
+        "GitHub.copilot-chat"
       ],
       "settings": {
         "workbench.colorTheme": "Tokyo Night"
