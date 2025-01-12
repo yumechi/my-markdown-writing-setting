@@ -14,7 +14,10 @@
         "GitHub.copilot-chat"
       ],
       "settings": {
-        "workbench.colorTheme": "Tokyo Night"
+        "workbench.colorTheme": "Tokyo Night",
+        "github.copilot.enable": {
+          "markdown": true
+        }
       }
     }
   }
