@@ -113,3 +113,4 @@ dist
 .yarn/
 
 work/
+.vscode/*.code-snippets
