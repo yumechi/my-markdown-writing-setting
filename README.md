@@ -10,13 +10,13 @@ markdown の Linter 系の設定を自分用にまとめたもの。
 
 ## Dependabot Configuration
 
-This repository uses Dependabot to manage dependencies. Dependabot is configured to check for updates every Friday at 21:00 JST.
+このリポジトリでは Dependabot を使用して依存関係を管理しています。Dependabot は毎週金曜日の21:00 JSTに更新をチェックするように設定されています。
 
-### Package Ecosystem
+### パッケージエコシステム
 
 - **npm**
 - **pnpm**
 
-### Directory
+### ディレクトリ
 
-Dependabot is configured to check the root directory of the repository.
+Dependabot はリポジトリのルートディレクトリをチェックするように設定されています。
