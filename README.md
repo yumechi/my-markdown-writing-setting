@@ -20,3 +20,7 @@ markdown の Linter 系の設定を自分用にまとめたもの。
 ### ディレクトリ
 
 Dependabot はリポジトリのルートディレクトリをチェックするように設定されています。
+
+## GitHub Actions
+
+このリポジトリでは、Dependabot からのプルリクエストを自動的にマージするための GitHub Actions ワークフローを使用しています。新しいワークフローは `auto-merge-dependabot.yml` というファイルに記述されています。
