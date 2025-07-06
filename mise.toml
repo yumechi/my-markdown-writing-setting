@@ -1,0 +1,3 @@
+[tools]
+nodejs = "latest"
+"npm:pnpm" = "latest"
