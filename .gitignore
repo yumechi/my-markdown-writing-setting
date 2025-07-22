@@ -105,6 +105,8 @@ dist
 
 # Writing files
 *.md
+!README.md
+!CLAUDE.md
 *.rst
 *.adoc
 *.txt
