@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "textlint": "^15.3.0",
+    "textlint": "^15.4.0",
     "textlint-rule-max-ten": "^5.0.0",
     "textlint-rule-no-mix-dearu-desumasu": "^6.0.4",
     "textlint-rule-preset-ja-spacing": "^2.4.3",
