@@ -107,6 +107,7 @@ dist
 *.md
 !README.md
 !CLAUDE.md
+!.claude/skills/**/SKILL.md
 *.rst
 *.adoc
 *.txt
