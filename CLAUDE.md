@@ -40,10 +40,10 @@ pnpm textlint work/your-article.md
 
 ### 校正ツール
 - **textlint**: 日本語記事の校正
-  - `textlint-rule-max-ten`: 連続する句読点をチェック
-  - `textlint-rule-no-mix-dearu-desumasu`: だ・である調とです・ます調の混在をチェック
+  - `textlint-rule-preset-japanese`: 日本語の基本的な文章ルール（句読点、文体の統一など）
   - `textlint-rule-preset-ja-spacing`: 日本語の文字間隔をチェック
   - `textlint-rule-preset-ja-technical-writing`: 技術文書向けのルール
+  - `textlint-rule-preset-ai-writing`: AI 生成文章の検出ルール
   - `textlint-rule-preset-jtf-style`: JTF（日本翻訳連盟）のスタイルガイド
   - `textlint-rule-prh`: 表記ゆれをチェック
   - `textlint-rule-spellcheck-tech-word`: 技術用語のスペルチェック
