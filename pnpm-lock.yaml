@@ -6,8 +6,8 @@ settings:
 
 overrides:
   '@modelcontextprotocol/sdk': '>=1.26.0'
-  hono: '>=4.12.7'
-  '@hono/node-server': '>=1.19.10'
+  hono: '>=4.12.12'
+  '@hono/node-server': '>=1.19.13'
   minimatch: '>=10.2.3'
   flatted: '>=3.4.2'
   express-rate-limit: '>=8.2.2'
@@ -95,7 +95,7 @@ packages:
     resolution: {integrity: sha512-TsQLe4i2gvoTtrHje625ngThGBySOgSK3Xo2XRYOdqGN1teR8+I7vchQC46uLJi8OF62YTYA3AhSpumtkhsaKQ==}
     engines: {node: '>=18.14.1'}
     peerDependencies:
-      hono: '>=4.12.7'
+      hono: '>=4.12.12'
 
   '@isaacs/cliui@9.0.0':
     resolution: {integrity: sha512-AokJm4tuBHillT+FpMtxQ60n8ObyXBatq7jD2/JA9dxbDDokKQm8KMht5ibGzLVU9IJDIKK4TPKgMHEYMn3lMg==}
