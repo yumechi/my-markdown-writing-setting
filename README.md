@@ -23,4 +23,6 @@ Dependabot はリポジトリのルートディレクトリをチェックする
 
 ## GitHub Actions
 
-このリポジトリでは、Dependabot からのプルリクエストを自動的にマージするための GitHub Actions ワークフローを使用しています。新しいワークフローは `auto-merge-dependabot.yml` というファイルに記述されています。
+このリポジトリでは、`ci.yml` にて依存関係のインストールと textlint による校正チェックを実行する CI ワークフローを使用しています。push および pull request をトリガーに実行されます。
+
+なお、以前使用していた Dependabot プルリクエストの自動マージワークフローは、サプライチェーン攻撃対策のため廃止しています。
