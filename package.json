@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "textlint": "15.8.0",
-    "textlint-rule-max-ten": "5.0.0",
+    "textlint-rule-max-ten": "5.0.1",
     "textlint-rule-no-mix-dearu-desumasu": "6.0.4",
     "textlint-rule-preset-ai-writing": "1.1.0",
     "textlint-rule-preset-ja-spacing": "3.0.4",
